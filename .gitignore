@@ -131,3 +131,11 @@ dmypy.json
 
 # vsCode
 .vscode/*
+
+# do not track large files
+notebooks/cellPhoneDB/data.tsv
+notebooks/saved/tissue.h5ad
+notebooks/brain/dumps/ligand_values.csv
+notebooks/saved/tissue_G.yml
+notebooks/saved/tissue_G.gexf
+notebooks/brain/dumps/receptor_values.csv

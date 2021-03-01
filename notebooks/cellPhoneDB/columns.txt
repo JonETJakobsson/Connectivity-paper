@@ -1,0 +1,4 @@
+CAF|T-cells
+T-cells|B-cells
+Macrophages|T-cells
+CAF|CAF

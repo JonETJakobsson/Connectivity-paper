@@ -1,0 +1,9 @@
+name: cellphone
+dependencies:
+  - python=3.7.9
+  - r-base
+  - r-pheatmap
+  - pip
+  - pip:
+    - cellphonedb
+    - scikit-learn==0.20.4

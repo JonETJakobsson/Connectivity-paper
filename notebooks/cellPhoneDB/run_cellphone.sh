@@ -1,0 +1,1 @@
+cellphonedb method statistical_analysis meta.tsv data.tsv --counts-data hgnc_symbol --pvalue 0.05 --iterations 1000 --threshold 0.1 --result-precision 5

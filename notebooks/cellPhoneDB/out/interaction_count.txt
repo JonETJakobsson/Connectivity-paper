@@ -1,0 +1,7 @@
+	all_sum
+B-cells	321
+T-cells	402
+CAF	675
+Macrophages	609
+Endothelial cells	610
+NK	374

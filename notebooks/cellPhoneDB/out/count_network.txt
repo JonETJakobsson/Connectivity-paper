@@ -1,0 +1,37 @@
+SOURCE	TARGET	count
+B-cells	B-cells	16
+B-cells	T-cells	44
+B-cells	CAF	78
+B-cells	Macrophages	71
+B-cells	Endothelial cells	70
+B-cells	NK	42
+T-cells	B-cells	44
+T-cells	T-cells	29
+T-cells	CAF	89
+T-cells	Macrophages	97
+T-cells	Endothelial cells	88
+T-cells	NK	55
+CAF	B-cells	78
+CAF	T-cells	89
+CAF	CAF	114
+CAF	Macrophages	147
+CAF	Endothelial cells	162
+CAF	NK	85
+Macrophages	B-cells	71
+Macrophages	T-cells	97
+Macrophages	CAF	147
+Macrophages	Macrophages	81
+Macrophages	Endothelial cells	132
+Macrophages	NK	81
+Endothelial cells	B-cells	70
+Endothelial cells	T-cells	88
+Endothelial cells	CAF	162
+Endothelial cells	Macrophages	132
+Endothelial cells	Endothelial cells	76
+Endothelial cells	NK	82
+NK	B-cells	42
+NK	T-cells	55
+NK	CAF	85
+NK	Macrophages	81
+NK	Endothelial cells	82
+NK	NK	29
