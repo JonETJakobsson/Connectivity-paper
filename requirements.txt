@@ -85,7 +85,7 @@ networkx==2.5
 notebook==6.1.5
 numba==0.51.2
 numexpr==2.7.1
-numpy==1.19.3
+numpy==1.22.0
 numpy-groupies==0.9.13
 openpyxl==3.0.5
 packaging==20.4
